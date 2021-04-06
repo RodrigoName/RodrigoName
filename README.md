@@ -9,7 +9,7 @@
 
 Rua Edgar, 525 CEP 02077-020 |  rlsnetvendas@gmail.com | 98459-2534 TIM
 
-Casado, 41 anos, Habilitação para dirigir categoria B
+Casado, 41 anos, 2 filhos, Habilitação para dirigir categoria B
 
 
 ## Escolaridade
