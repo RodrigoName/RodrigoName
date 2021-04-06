@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning, English and Angular
 - 💞️ I am looking to collaborate in Java, Javascript and Angular
 - 📫 How to reach me rlsnetvendas@gmail.com and whatsapp (text message) + 55 11 98459-2534
-
+***
 
 # Rodrigo Ferreira da Silva
 
@@ -11,13 +11,14 @@ Rua Edgar, 525 CEP 02077-020 |  rlsnetvendas@gmail.com | 98459-2534 TIM
 
 Casado, 41 anos, Habilitação para dirigir categoria B
 
-Escolaridade
+
+## Escolaridade
 
 3º Grau Cursando – Análise e Desenvolvimento de Sistemas
 
 3º Grau Completo – Administração
 
-Histórico Profissional
+## Histórico Profissional
 
 **01/2019 – Atual**
 
@@ -55,16 +56,16 @@ Experiências somadas de mais de 12 anos em atendimento ao cliente em Call Cente
 
 Área_: Atendimento ao cliente_ (Telemarketing – Monitoria, SAC, Suporte Técnico) – Seguradora auto, telefonia e companhia aérea.
 
-**Conhecimentos em Informática:**
+# **Conhecimentos em Informática:**
 
-**Linguagens de programação:**
+### **Linguagens de programação:**
 
 - **Javascript**
 - **PHP**
 - **Java**
 - **TypeScript**
 
-**Outros conhecimentos:**
+### **Outros conhecimentos:**
 
 \_ Angular 11, Git, Github, Github pages, Visual Studio Code, Markdow, HTML 5, CSS 3, NodeJS, JQuery, Criação de API REST, JSON, Arquitetura de micro serviços
 
@@ -78,6 +79,6 @@ Experiências somadas de mais de 12 anos em atendimento ao cliente em Call Cente
 
 \_ Sistemas operacionais: Linux, Windows
 
-Minha página GitHub:
+### **Minha página GitHub:**
 
 Github: [https://github.com/RodrigoName/](https://github.com/RodrigoName/)
