@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning, English and Angular
 - 💞️ I am looking to collaborate in Java, Javascript and Angular
 - 📫 How to reach me rlsnetvendas@gmail.com and whatsapp (text message) + 55 11 98459-2534
-- ✔️ My Portifolios: [http://rodrigoname.github.io/](http://rodrigo.github.io/)
+- ✔️ My Portifolios: [http://rodrigoname.github.io/](http://rodrigoname.github.io/)
 ***
 
 # Rodrigo Ferreira da Silva
