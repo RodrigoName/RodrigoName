@@ -84,4 +84,4 @@ Experiências somadas de mais de 12 anos em atendimento ao cliente em Call Cente
 
 ### **Minha página GitHub:**
 
-Github: [https://github.com/RodrigoName/](https://github.com/RodrigoName/)
+Github: :octocat: [https://github.com/RodrigoName/](https://github.com/RodrigoName/)
