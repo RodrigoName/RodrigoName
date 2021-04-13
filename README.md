@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning, English and Angular
 - 💞️ I am looking to collaborate in Java, Javascript and Angular
 - 📫 How to reach me rlsnetvendas@gmail.com and whatsapp (text message) + 55 11 98459-2534
-- ✔️ My Portifolios: [http://rodrigoname.github.io/](http://rodrigoname.github.io/)
+- ✔️ My Portifolios:
+- :octocat:[http://rodrigoname.github.io/](http://rodrigoname.github.io/)
 - [https://efeitos.webflow.io/](https://efeitos.webflow.io/)
 - [https://portifolio-52f699.webflow.io/](https://portifolio-52f699.webflow.io/)
 ***
