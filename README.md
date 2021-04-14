@@ -6,7 +6,7 @@
 - ✔️ My Portifolios:
 - :octocat:[http://rodrigoname.github.io/](http://rodrigoname.github.io/)
 - [https://efeitos.webflow.io/](https://efeitos.webflow.io/)
-- [https://rodrigo-git-main-rodrigoname.vercel.app/](https://rodrigo-git-main-rodrigoname.vercel.app/) Responsive
+- [https://rodrigo-git-main-rodrigoname.vercel.app/](https://rodrigo-git-main-rodrigoname.vercel.app/) Responsive Site
 ***
 
 # Rodrigo Ferreira da Silva
