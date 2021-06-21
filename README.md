@@ -10,16 +10,27 @@
 - ⚜️ Note: My portfolios I decided to deliver on web pages because I like to show a final product. Posting a lot of codes, code training, I think is not a good presentation.
 ***
 
-RODRIGO FERREIRA DA SILVA, Casado, 2 filhos
+
+## RODRIGO FERREIRA DA SILVA
+
+Casado, 2 filhos
+
 Residente em São Paulo
+
 WhatsApp: 11 98459-2534 (Tim) 
-GitHub:  [https://github.com/RodrigoName](https://github.com/RodrigoName)  
+
+GitHub:  [https://github.com/RodrigoName](https://github.com/RodrigoName) 
+
 Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.linkedin.com/in/rodrigoferreiradasilva/)
+
+
 
 ## FORMAÇÃO SUPERIOR:
 
 ***Análise e Desenvolvimento de Sistemas*** - 01/2021 até 06/2023 – UNINOVE ( cursando ) 
+
 ***Administração – Bacharelado*** – 12/2001 – FIPEP ( concluído)
+
 
 ***PÓS GRADUAÇÃO:***
 
@@ -35,7 +46,10 @@ Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.lin
 
 1999 – 2011 Telemarketing (SAC, Suporte Técnico, Monitoria) Empresas: Mondial Assistance (Assistência 24h), Gol Linhas Aéreas, Vivo (Telesp Celular / Telefônica)
 
+
+
 ## Outros conhecimentos (Certificados):
+
 
 **Bootamp { Parças} 05/2021 – 08/2021** 
 
@@ -63,6 +77,7 @@ Preparatório CTFL - Certified Tester Foundation Level do ISTQB - 24 horas Ciên
 
 
 
+
 **Bootcamp - Digital Innovation One – 06/2021 – 07/2021**
 
 Total 80 horas 
@@ -83,8 +98,12 @@ Aplicar testes unitários com JUnit4 / Mocks e Asserts / TDD e testes Unitários
 Testes unitários para validar uma API REST de gerenciamento
 
 
+
+
 **Curso em Vídeo (Prof. Gustavo Guanabara):**
 
 _Git / GitHub (20 horas) 
+
 _Java Script (40 horas) 
+
 _ Algoritmo (40 horas)
