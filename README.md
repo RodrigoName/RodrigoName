@@ -10,80 +10,93 @@
 - ⚜️ Note: My portfolios I decided to deliver on web pages because I like to show a final product. Posting a lot of codes, code training, I think is not a good presentation.
 ***
 
-# Rodrigo Ferreira da Silva
+RODRIGO FERREIRA DA SILVA,
+Casado, 2 filhos, residente em São Paulo, 11 98459-2534 (Tim)
+GitHub: https://github.com/RodrigoName
+Linkedin: https://www.linkedin.com/in/rodrigoferreiradasilva/
 
-Rua Edgar, 525 CEP 02077-020 |  rlsnetvendas@gmail.com | 98459-2534 TIM
-
-Casado, 41 anos, 2 filhos, Habilitação para dirigir categoria B
 
 
-## Escolaridade
+FORMAÇÃO SUPERIOR:
 
-3º Grau Cursando – Análise e Desenvolvimento de Sistemas
+Análise e Desenvolvimento de Sistemas - 01/2021 até 06/2023 – UNINOVE ( cursando )
+Administração – Bacharelado – 12/2001 – FIPEP ( concluído)
 
-3º Grau Completo – Administração
 
-## Histórico Profissional
+PÓS GRADUAÇÃO:
 
-**01/2019 – Atual**
+Big Data – 06/2021 até 12/2021 – Descomplica ( Cursando )
 
-**AGPP - SMIT**
 
-_Cargo:_ Assistente Adm. de Unidade - Concursado
 
-_Área:_ Adm. Pública
 
-_Atribuições do cargo:_ Todas atividades pertinentes a unidade, como: Controle de estoques, relatórios de atendimento, reunião com equipe terceirizada, verificação das condições de limpeza e infraestrutura da unidade, repostas a manifestações de cidadãos, entre outros. Ano 2019 – Descomplica Campo Limpo Ano 2020/2021 – Descomplica Santana
+Experiência profissional
 
-**05/2011 - 10/2013**
 
-**Sptrans - São Paulo Transportes**
+2012 – 2021 ( Atual )
 
-_Cargo:_ Operador de monitoramento - Concursado
+Concursando – trabalhos na área administrativa
+Prefeitura de SP ( SMIT – Secr. de Inovação e Tecnologia), Sptrans, CDP Guarulhos II
 
-_Área:_ Logística (Logística)
+1999 – 2011
+Telemarketing (SAC, Suporte Técnico, Monitoria)
+Empresas: Mondial Assistance (Assistência 24h), Gol Linhas Aéreas, Vivo (Telesp Celular / Telefônica)
 
-_Atribuições do cargo:_ Monitoramento de Vans do serviço Atende. Controle operacional de 50 a 100 Vans e dos respectivos motoristas. Relatórios de ocorrência. Atendimento a rádio chamada. Remanejamento de Rotas Operacionais. Atendimento ao usuário.
+Outros conhecimentos (Certificados):
 
-**12/2007 - 04/2011**
+Bootamp { Parças} 05/2021 – 08/2021
+Formação: Rodrigo|QA Unicórnio
 
-**SAP – Secr. Adm. Penitenciária de SP – CPD Guarulhos II**
+Conteúdo:
 
-_Cargo:_ Agente Administrativo - Concursado
+HTML e CSS - 9 horas
+HTML5 e CSS 3 - 14 horas
+Git Workflow - 3h55min
 
-_Área:_ Jurídica (Criminal)
+JavaScript Completo ES6 - 37 horas
+JavaScript e JQuery - 9 horas
+Automação Front End com NPM - 4 horas
 
-_Atribuições do cargo:_ Montagem de prontuários. Digitação de dados cadastrais. Atualização de banco de dados. Arquivo. Criação de RG criminais.
+Bootstrap Builder - 7h15min
+Web developer essentials - 5 horas
 
-**Antes 2011**
+Ruby - 10 horas
+Capybara Automatizando aplicações Web - 12 horas
+Cucumber, Capybara e RSpec - 40 horas
+Continuous Testing com Jenkins e Ruby - 8 hroas
+Testando um API Restful com Sinatra - 12 horas
+Automação de ponta a ponta em JAVA - 20 horas
+Appium com Robot Framework - 15 horas
 
-Experiências somadas de mais de 12 anos em atendimento ao cliente em Call Center
+Node JS - 15 horas
+Preparatório CTFL - Certified Tester Foundation Level do ISTQB - 24 horas
+Ciências Humanas como Tendência no Mundo Digital - 16 horas
 
-Área_: Atendimento ao cliente_ (Telemarketing – Monitoria, SAC, Suporte Técnico) – Seguradora auto, telefonia e companhia aérea.
 
-# **Conhecimentos em Informática:**
+Bootcamp - Digital Innovation One – 06/2021 – 07/2021
 
-### **Linguagens de programação:**
+Total 80 horas 
+Tema: JAVA  / Framework Spring Boot / Criação de API's Rest. / Testes
 
-- **Javascript**
-- **PHP**
-- **Java**
-- **TypeScript**
+Conteúdo:
 
-### **Outros conhecimentos:**
+Lógica de programação
+Estrutura de dados e algoritmos
+Git / GitHub
+Banco de Dados PostgreSQL
+Desenvolvimento Java - Debug / Orientação a Objetos / S.O.L.I.D. / Datas/ Arrays / Exceções
+Java Collections - Lists / Set/ Map / Stream
+Desafios matemáticos em JAVA
+Desenvolvimento avançado JAVA - Interfaces/ Processamento Assíncrono e Paralelo / Modularização / Java 10 e 11
+Spring Boot  Profiles e Configurações
+Desenvolvimento de um sistema de gerenciamento de pessoas em API REST com Spring Boot
+Desafios em Java
+Projeto prático AWS
+Aplicar testes unitários com JUnit4 / Mocks e Asserts / TDD e testes Unitários com JUnit5
+Testes unitários para validar uma API REST de gerenciamento
 
-\_ Angular 11, Git, Github, Github pages, Visual Studio Code, Markdow, HTML 5, CSS 3, NodeJS, JQuery, Criação de API REST, JSON, Arquitetura de micro serviços
+Curso em Vídeo (Prof. Gustavo Guanabara):
 
-\_ Outros: Git, Github, Github pages, Markdow, HTML5, CSS3, jQuery, Redes, Conserto / Configuração / Manutenção de computadores
-
-\_ UI/UX, BootStrap
-
-\_ MySQL, MongoDB
-
-\_ Aplicativos: Pacote Office (Word, Excel, PowerPoint, Access, Publisher, Outlook), Photoshop, Sony Vegas
-
-\_ Sistemas operacionais: Linux, Windows
-
-### **Minha página GitHub:**
-
-Github: :octocat: [https://github.com/RodrigoName/](https://github.com/RodrigoName/)
+_ Git / GitHub (20 horas)
+_ Java Script (40 horas)
+_ Algoritmo (40 horas)
