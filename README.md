@@ -57,22 +57,38 @@ Formação: **QA Unicórnio**
 
 **Conteúdo:**
 
-HTML e CSS - 9 horas 
+HTML e CSS - 9 horas
+
 HTML5 e CSS 3 - 14 horas 
+
 Git Workflow - 3h55min
+
 JavaScript Completo ES6 - 37 horas 
+
 JavaScript e JQuery - 9 horas 
+
 Automação Front End com NPM - 4 horas
+
 Bootstrap Builder - 7h15min 
+
 Web developer essentials - 5 horas
+
 Ruby - 10 horas 
+
 Capybara Automatizando aplicações Web - 12 horas 
+
 Cucumber, Capybara e RSpec - 40 horas 
+
 Continuous Testing com Jenkins e Ruby - 8 hroas 
+
 Testando um API Restful com Sinatra - 12 horas 
+
 Automação de ponta a ponta em JAVA - 20 horas 
+
 Appium com Robot Framework - 15 horas
+
 Node JS - 15 horas 
+
 Preparatório CTFL - Certified Tester Foundation Level do ISTQB - 24 horas Ciências Humanas como Tendência no Mundo Digital - 16 horas
 
 
@@ -81,20 +97,31 @@ Preparatório CTFL - Certified Tester Foundation Level do ISTQB - 24 horas Ciên
 **Bootcamp - Digital Innovation One – 06/2021 – 07/2021**
 
 Total 80 horas 
+
 Tema: JAVA / Framework Spring Boot / Criação de API's Rest. / Testes
 
 **Conteúdo:**
 
 Lógica de programação Estrutura de dados e algoritmos 
+
 Git / GitHub 
+
 Banco de Dados PostgreSQL 
+
 Desenvolvimento Java - Debug / Orientação a Objetos / S.O.L.I.D. / Datas/ Arrays / Exceções Java Collections - Lists / Set/ Map / Stream 
+
 Desafios matemáticos em JAVA 
+
 Desenvolvimento avançado JAVA - Interfaces/ Processamento Assíncrono e Paralelo / Modularização / Java 10 e 11 
+
 Spring Boot Profiles e Configurações 
+
 Desenvolvimento de um sistema de gerenciamento de pessoas em API REST com Spring Boot 
+
 Desafios em Java Projeto prático AWS 
+
 Aplicar testes unitários com JUnit4 / Mocks e Asserts / TDD e testes Unitários com JUnit5 
+
 Testes unitários para validar uma API REST de gerenciamento
 
 
