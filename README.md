@@ -10,12 +10,6 @@
 - ⚜️ Note: My portfolios I decided to deliver on web pages because I like to show a final product. Posting a lot of codes, code training, I think is not a good presentation.
 ***
 
-RODRIGO FERREIRA DA SILVA,
-Casado, 2 filhos, residente em São Paulo, 11 98459-2534 (Tim)
-GitHub: https://github.com/RodrigoName
-Linkedin: https://www.linkedin.com/in/rodrigoferreiradasilva/
-
-
 RODRIGO FERREIRA DA SILVA, Casado, 2 filhos
 Residente em São Paulo
 WhatsApp: 11 98459-2534 (Tim) 
@@ -94,6 +88,3 @@ Testes unitários para validar uma API REST de gerenciamento
 _Git / GitHub (20 horas) 
 _Java Script (40 horas) 
 _ Algoritmo (40 horas)
-
-Inglês: Técnico/Básico
-
