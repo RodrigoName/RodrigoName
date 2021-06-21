@@ -31,6 +31,7 @@ Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.lin
 
 ***Administração – Bacharelado*** – 12/2001 – FIPEP ( concluído)
 
+***
 
 ***PÓS GRADUAÇÃO:***
 
@@ -42,7 +43,7 @@ Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.lin
 
 2012 – 2021 ( Atual )
 
-*Concurso público* – trabalhos na área administrativa Prefeitura de SP ( SMIT – Secr. de Inovação e Tecnologia), Sptrans, CDP Guarulhos II
+*Concurso público* – trabalhos na área administrativa Prefeitura de SP ( SMIT – Secr. de Inovação e Tecnologia - Atual), Sptrans, CDP Guarulhos II
 
 1999 – 2011 Telemarketing (SAC, Suporte Técnico, Monitoria) Empresas: Mondial Assistance (Assistência 24h), Gol Linhas Aéreas, Vivo (Telesp Celular / Telefônica)
 
@@ -50,6 +51,8 @@ Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.lin
 
 ## Outros conhecimentos (Certificados):
 
+***
+***
 
 **Bootamp { Parças} 05/2021 – 08/2021** 
 
@@ -92,7 +95,8 @@ Node JS - 15 horas
 Preparatório CTFL - Certified Tester Foundation Level do ISTQB - 24 horas Ciências Humanas como Tendência no Mundo Digital - 16 horas
 
 
-
+***
+***
 
 **Bootcamp - Digital Innovation One – 06/2021 – 07/2021**
 
@@ -125,7 +129,8 @@ Aplicar testes unitários com JUnit4 / Mocks e Asserts / TDD e testes Unitários
 Testes unitários para validar uma API REST de gerenciamento
 
 
-
+***
+***
 
 **Curso em Vídeo (Prof. Gustavo Guanabara):**
 
