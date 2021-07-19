@@ -35,7 +35,7 @@ Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.lin
 
 ***Postgraduate:***
 
-**Big Data - Competitive intelligence** – 06/2021 até 12/2021 – University Descomplica ( graduate student )
+** MBA - Big Data - Competitive intelligence** – 06/2021 até 12/2021 – University Descomplica ( graduate student )
 
 
 ## ***English***
