@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodrigo Ferreira da Silva
 - 👀 I have knowledge in Javascript,JQuery, Html5, CSS3, ReactJS/Redux/Gulp, Bootstrap, NPM and Git 
-- 🌱 I’m currently learning, English, Kotlin, Lua (Game Roblox - Api)
+- 🌱 I’m currently learning: English, Kotlin and Lua (Game Roblox - Api)
 - 💞️ I am looking to collaborate in Front-End
 - 📫 How to reach me rlsnetvendas@gmail.com and whatsapp + 55 11 98459-2534
 - ✔️ My Portifolios:
@@ -9,7 +9,7 @@
 - [https://rodrigo-git-main-rodrigoname.vercel.app/](https://rodrigo-git-main-rodrigoname.vercel.app/) Responsive Site
 - ⚜️ Note: My portfolio is still under construction
 ***
-
+<br/>
 
 ## RODRIGO FERREIRA DA SILVA
 
@@ -23,8 +23,7 @@ GitHub:  [https://github.com/RodrigoName](https://github.com/RodrigoName)
 
 Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.linkedin.com/in/rodrigoferreiradasilva/)
 
-
-
+<br/>
 
 ## University graduate:
 
@@ -33,16 +32,18 @@ Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.lin
 ***Management – Bachelor*** – 12/2001 – University FIPEP ( Finished )
 
 ***
-
+<br/>
 
 ## ***Postgraduate:***
 
 **MBA - Big Data - Competitive intelligence** – 06/2021 até 12/2021 – University Descomplica ( graduate student )
 
+<br/>
 
-## ***English***
+## **English**
 English – Basic level A2 – Studying EF English Live
 
+<br/>
 
 ## ***Professional experience***
 
@@ -57,7 +58,7 @@ Sptrans (São Paulo Prefecture) and CDP Guarulhos II (São Paulo State) - works 
 Telemarketing (SAC, Technical Support, Monitoring)
 Companies: Mondial Assistance (24h Assistance), Gol Linhas Aéreas, Vivo (Telesp Celular / Telefônica)
 
-
+<br/>
 
 
 ## **Other knowledge (Certificates):**
@@ -67,7 +68,7 @@ Companies: Mondial Assistance (24h Assistance), Gol Linhas Aéreas, Vivo (Telesp
 
 **Bootcamp { Parças} 05/2021 – 08/2021** 
 
-Formation: **QA Unicorn**
+Formation: **QA Unicorn** | A myth in the programming world
 
 **Contents:**
 
