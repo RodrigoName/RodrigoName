@@ -1,23 +1,23 @@
 - 👋 Hi, I’m @Rodrigo Ferreira da Silva
-- 👀 I’m interested in Java, Javascript, Html, CSS, Python and Angular
-- 🌱 I’m currently learning, English and Angular
-- 💞️ I am looking to collaborate in Java, Javascript and Angular
-- 📫 How to reach me rlsnetvendas@gmail.com and whatsapp (text message) + 55 11 98459-2534
+- 👀 I have knowledge in Javascript,JQuery, Html5, CSS3, ReactJS/Redux/Gulp, Bootstrap, NPM and Git 
+- 🌱 I’m currently learning, English, Kotlin, Lua (Game Roblox - Api)
+- 💞️ I am looking to collaborate in Front-End
+- 📫 How to reach me rlsnetvendas@gmail.com and whatsapp + 55 11 98459-2534
 - ✔️ My Portifolios:
 - ⏶[https://portifolio-rodrigoname.vercel.app/](https://portifolio-rodrigoname.vercel.app/)
 - :octocat:[http://rodrigoname.github.io/](http://rodrigoname.github.io/)
 - [https://rodrigo-git-main-rodrigoname.vercel.app/](https://rodrigo-git-main-rodrigoname.vercel.app/) Responsive Site
-- ⚜️ Note: My portfolios I decided to deliver on web pages because I like to show a final product. Posting a lot of codes, code training, I think is not a good presentation.
+- ⚜️ Note: My portfolio is still under construction
 ***
 
 
 ## RODRIGO FERREIRA DA SILVA
 
-Casado, 2 filhos
+Married, 2 children
 
-Residente em São Paulo
+Resident in São Paulo
 
-WhatsApp: 11 98459-2534 (Tim) 
+WhatsApp: 11 98459-2534 
 
 GitHub:  [https://github.com/RodrigoName](https://github.com/RodrigoName) 
 
@@ -25,114 +25,125 @@ Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.lin
 
 
 
-## FORMAÇÃO SUPERIOR:
+## University graduate:
 
-***Análise e Desenvolvimento de Sistemas*** - 01/2021 até 06/2023 – UNINOVE ( cursando ) 
+***Analysis and systems development*** - 01/2021 até 06/2023 – University UNINOVE ( undergraduate - studying ) 
 
-***Administração – Bacharelado*** – 12/2001 – FIPEP ( concluído)
-
-***
-
-***PÓS GRADUAÇÃO:***
-
-**Big Data** – 06/2021 até 12/2021 – Descomplica ( Cursando )
-
-
-
-## ***Experiência profissional***
-
-2012 – 2021 ( Atual )
-
-*Concurso público* – trabalhos na área administrativa Prefeitura de SP ( SMIT – Secr. de Inovação e Tecnologia - Atual), Sptrans, CDP Guarulhos II
-
-1999 – 2011 Telemarketing (SAC, Suporte Técnico, Monitoria) Empresas: Mondial Assistance (Assistência 24h), Gol Linhas Aéreas, Vivo (Telesp Celular / Telefônica)
-
-
-
-## Outros conhecimentos (Certificados):
+***Management – Bachelor*** – 12/2001 – University FIPEP ( Finished )
 
 ***
-***
 
-**Bootamp { Parças} 05/2021 – 08/2021** 
+***Postgraduate:***
 
-Formação: **QA Unicórnio**
+**Big Data - Competitive intelligence** – 06/2021 até 12/2021 – University Descomplica ( graduate student )
 
-**Conteúdo:**
 
-HTML e CSS - 9 horas
+## ***English***
+English – Basic level A2 – Studying EF English Live
 
-HTML5 e CSS 3 - 14 horas 
 
-Git Workflow - 3h55min
+## ***Professional experience***
 
-JavaScript Completo ES6 - 37 horas 
+2012 – 2021 (Current)
 
-JavaScript e JQuery - 9 horas 
+* Prefecture of SP ( SMIT – Innovation and Technology Department - current) - works in the administrative area - government official
 
-Automação Front End com NPM - 4 horas
+Previous years:
+Sptrans (São Paulo Prefecture) and CDP Guarulhos II (São Paulo State) - works in the administrative area - government official
 
-Bootstrap Builder - 7h15min 
+1999 – 2011
+Telemarketing (SAC, Technical Support, Monitoring)
+Companies: Mondial Assistance (24h Assistance), Gol Linhas Aéreas, Vivo (Telesp Celular / Telefônica)
 
-Web developer essentials - 5 horas
 
-Ruby - 10 horas 
 
-Capybara Automatizando aplicações Web - 12 horas 
 
-Cucumber, Capybara e RSpec - 40 horas 
-
-Continuous Testing com Jenkins e Ruby - 8 hroas 
-
-Testando um API Restful com Sinatra - 12 horas 
-
-Automação de ponta a ponta em JAVA - 20 horas 
-
-Appium com Robot Framework - 15 horas
-
-Node JS - 15 horas 
-
-Preparatório CTFL - Certified Tester Foundation Level do ISTQB - 24 horas Ciências Humanas como Tendência no Mundo Digital - 16 horas
-
+##Other knowledge (Certificates):
 
 ***
 ***
 
-**Bootcamp - Digital Innovation One – 06/2021 – 07/2021**
+**Bootcamp { Parças} 05/2021 – 08/2021** 
 
-Total 80 horas 
+Formation: **QA Unicorn**
 
-Tema: JAVA / Framework Spring Boot / Criação de API's Rest. / Testes
+**Contents:**
 
-**Conteúdo:**
+HTML e CSS - 9 hours
 
-Lógica de programação Estrutura de dados e algoritmos 
+HTML5 e CSS 3 - 14 hours
 
-Git / GitHub 
+Git Workflow - 4 hours
 
-Banco de Dados PostgreSQL 
+Full JavaScript ES6 - 37 hours
 
-Desenvolvimento Java - Debug / Orientação a Objetos / S.O.L.I.D. / Datas/ Arrays / Exceções Java Collections - Lists / Set/ Map / Stream 
+JavaScript and JQuery - 9 hours
 
-Desafios matemáticos em JAVA 
+Front End Automation with NPM - 4 hours
 
-Desenvolvimento avançado JAVA - Interfaces/ Processamento Assíncrono e Paralelo / Modularização / Java 10 e 11 
+Bootstrap Builder - 7:15 hours
 
-Spring Boot Profiles e Configurações 
+Web developer essentials - 5 hours
 
-Desenvolvimento de um sistema de gerenciamento de pessoas em API REST com Spring Boot 
+Ruby - 10 hours
 
-Desafios em Java Projeto prático AWS 
+Capybara Automating Web Applications - 12 hours
 
-Aplicar testes unitários com JUnit4 / Mocks e Asserts / TDD e testes Unitários com JUnit5 
+Cucumber, Capybara and RSpec - 40 hours
 
-Testes unitários para validar uma API REST de gerenciamento
+Continuous Testing with Jenkins and Ruby - 8 hours
+
+Testing a Restful API with Sinatra - 12 hours
+
+End-to-end automation in JAVA - 20 hours
+
+Appium with Robot Framework - 15 hours
+
+Node JS - 15 hours
+
+CTFL Preparation - ISTQB Certified Foundation Level Tester - 24 hours Human Sciences as a Trend in the Digital World - 16 hours
 
 
 ***
 ***
 
-**Curso em Vídeo (Prof. Gustavo Guanabara):**
+**Santander Bootcamp | Mobile Developer – 06/2021 – 09/2021**
+
+Total 200 horas
+Theme: Mobile Development with Kotlin
+
+
+**Contents:**
+
+Programming logic - 4 hours
+Introduction to Git / GitHub - 5 hours
+Introduction to Kotlin - 6 hours
+Object Orientation Fundamentals with Kotlin - 6 hours
+First steps in Kotlin - 40 hours
+Introduction to Android Platform Architecture with Kotlin - 3 hours
+Working with Android Studio and Key Tools - 3 hours
+Applying Concepts to Collections, Arrays, and Lists - 5 hours
+Best Practices for Debugging, Error Handling and Exceptions - 4 hours
+Designing the First Android Application Using Kotlin - 6 hours
+SQLite Integrated Data Development on Android - 7 hours
+Applying TDD and Testing Patterns to Android Application Development - 1 hours
+Android Apps Navigation Concepts, Appearance and Style - 4 hours
+ViewModel and Lifecycle for Better Android App Experience - 1 hours
+Integrated Android Application Development - 6 hours
+Using Android's Native Features - 10 hours
+Solving Challenges in Kotlin - 40 hours
+Kotlin Development Principles with Clean Architecture and MVVM - 2 hours
+Working with Android Asynchronous Processing - 2 hours
+Professional Coding Standards and Conventions with Kotlin - 2 hours
+Practicing programming with Kotlin - 40 hours
+Creating a Reminders and Tasks App with Kotlin - 3 hours
+
+
+
+***
+***
+
+**Video course (Teacher Gustavo Guanabara):**
 
 _Git / GitHub (20 horas) 
 
