@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: English, Kotlin and Lua (Game Roblox - Api)
 - 💞️ I am looking to collaborate in Front-End
 - 📫 How to reach me rlsnetvendas@gmail.com and whatsapp + 55 11 98459-2534
-- ✔️ My Portifolios:{under construction}
+- ✔️ My Portifolios:  {under construction}
 - ⏶[https://portifolio-rodrigoname.vercel.app/](https://portifolio-rodrigoname.vercel.app/)
 - :octocat:[http://rodrigoname.github.io/](http://rodrigoname.github.io/)
 - [https://rodrigo-git-main-rodrigoname.vercel.app/](https://rodrigo-git-main-rodrigoname.vercel.app/) Responsive Site
