@@ -2,7 +2,7 @@
 - 👀 I have knowledge in Javascript,JQuery, Html5, CSS3, ReactJS/Redux/Gulp, Bootstrap, NPM and Git 
 - 🌱 I’m currently learning: English, Kotlin and Lua (Game Roblox - Api)
 - 💞️ I am looking to collaborate in Front-End
-- 📫 How to reach me rlsnetvendas@gmail.com and whatsapp + 55 11 98459-2534
+- 📫 How to reach me rlsnetvendas@gmail.com and whatsapp + 55 11 99699-9034
 - ✔️ My Portifolios:  {under construction}
 - ⏶[https://portifolio-rodrigoname.vercel.app/](https://portifolio-rodrigoname.vercel.app/)
 - :octocat:[http://rodrigoname.github.io/](http://rodrigoname.github.io/)
