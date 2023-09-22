@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rodrigo Ferreira da Silva
-- 👀 I have knowledge in Javascript,JQuery, Html5, CSS3, ReactJS/Redux/Gulp, Bootstrap, NPM and Git 
-- 🌱 I’m currently learning: English, Kotlin and Lua (Game Roblox - Api)
-- 💞️ I am looking to collaborate in Front-End
+- 👀 I have knowledge in HTML, CSS, JavaScript, Git, Module Bundlers, NPM, Authentication Strategies, React, Angular, Apollo, Electron, Java, C#, PHP, Python, Ruby, PostgreSQL, MongoDB, FireBase, Server Side, OAuth, Basic Auth, Token Auth, JWT, API, CI/CD, Elasticsearch, Docker, Nginx. I have many LinkedIn endorsements and various course certificates
+- 🌱 I’m currently learning: English. I have a basic level of English, I don't speak English, but I understand well, and I can communicate through written messages. I take advantage of the new wave of AI to carry out my technical work. I am completely modern and I know that AI brings a lot of productivity in my daily life.
+- 💞️ I am looking to collaborate in Front-End and Back-End
 - 📫 How to reach me rlsnetvendas@gmail.com and whatsapp + 55 11 99699-9034
 - ✔️ My Portifolios:  {under construction}
 - ⏶[https://portifolio-rodrigoname.vercel.app/](https://portifolio-rodrigoname.vercel.app/)
@@ -15,19 +15,19 @@
 
 Married, 2 children
 
-Resident in São Paulo
+Resident in Itanhaem/ Sao Paulo / Brazil
 
-WhatsApp: 11 99699-9034 
+WhatsApp: +55 13 99180-7357
 
 GitHub:  [https://github.com/RodrigoName](https://github.com/RodrigoName) 
 
-Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva/](https://www.linkedin.com/in/rodrigoferreiradasilva/)
+Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva](https://www.linkedin.com/in/rodrigo-analistaedesenvolvedordesistemas/))
 
 <br/>
 
 ## University graduate:
 
-***Analysis and systems development*** - 01/2021 até 06/2023 – University UNINOVE ( undergraduate - studying ) 
+***Analysis and systems development*** - 01/2021 course paused 06/2025 – University UNINOVE ( undergraduate - studying ) 
 
 ***Management – Bachelor*** – 12/2001 – University FIPEP ( Finished )
 
@@ -47,7 +47,7 @@ English – Basic level A2 – Studying EF English Live
 
 ## ***Professional experience***
 
-2012 – 2021 (Current)
+2012 – 2023 (Current)
 
 * Prefecture of SP ( SMIT – Innovation and Technology Department - current) - works in the administrative area - government official
 
