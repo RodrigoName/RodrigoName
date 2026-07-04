@@ -374,9 +374,9 @@ https://rodrigo-git-main-rodrigoname.vercel.app/
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoName&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RodrigoName&show_icons=true&theme=github_dark&cache_seconds=1800" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoName&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoName&layout=compact&theme=github_dark&cache_seconds=1800" height="170"/>
 
 </div>
 
