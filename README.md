@@ -370,18 +370,19 @@ https://rodrigo-git-main-rodrigoname.vercel.app/
 
 ---
 
-# GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Rodrigo GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoName&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoName&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoName&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RodrigoName&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoName&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RodrigoName&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 #  Contact
