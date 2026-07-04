@@ -1,435 +1,425 @@
-- 👋 Hi, I’m @Rodrigo Ferreira da Silva
-- 👀 I have knowledge in HTML, CSS, JavaScript, Git, Module Bundlers, NPM, Authentication Strategies, React, Angular, Apollo, Electron, Java, C#, PHP, Python, Ruby, PostgreSQL, MongoDB, FireBase, Server Side, OAuth, Basic Auth, Token Auth, JWT, API, CI/CD, Elasticsearch, Docker, Nginx. I have many LinkedIn endorsements and various course certificates
-- 🌱 I’m currently learning: English. I have a basic level of English, I don't speak English, but I understand well, and I can communicate through written messages. I take advantage of the new wave of AI to carry out my technical work. I am completely modern and I know that AI brings a lot of productivity in my daily life.
-- 💞️ I am looking to collaborate in Front-End and Back-End
-- 📫 How to reach me rlsnetvendas@gmail.com and whatsapp + 55 11 99699-9034
-- ✔️ My Portifolios:  {under construction}
-- ⏶[https://portifolio-rodrigoname.vercel.app/](https://portifolio-rodrigoname.vercel.app/)
-- :octocat:[http://rodrigoname.github.io/](http://rodrigoname.github.io/)
-- [https://rodrigo-git-main-rodrigoname.vercel.app/](https://rodrigo-git-main-rodrigoname.vercel.app/) Responsive Site
-- ⚜️ Note: My portfolio is still under construction
-***
-<br/>
+#  Hi, I'm Rodrigo Ferreira da Silva
 
-## RODRIGO FERREIRA DA SILVA
+<div align="center">
 
-Married, 2 children
+#  Full Stack Developer | Software Engineering Student | AI Enthusiast
 
-Resident in Itanhaem/ Sao Paulo / Brazil
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Front-End+%7C+Back-End+Developer;React+%7C+Angular+%7C+Java+%7C+.NET;Always+Learning+New+Technologies;Open+to+New+Opportunities" />
 
-WhatsApp: +55 13 99180-7357
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Ferreira%20da%20Silva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-analistaedesenvolvedordesistemas/)
+[![GitHub](https://img.shields.io/badge/GitHub-RodrigoName-black?style=for-the-badge&logo=github)](https://github.com/RodrigoName)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-success?style=for-the-badge)](https://portifolio-rodrigoname.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rlsnetvendas@gmail.com)
 
-GitHub:  [https://github.com/RodrigoName](https://github.com/RodrigoName) 
+</div>
 
-Linkedin:  [https://www.linkedin.com/in/rodrigoferreiradasilva](https://www.linkedin.com/in/rodrigo-analistaedesenvolvedordesistemas/))
+---
 
-<br/>
+#  About Me
 
-## University graduate:
+I am a **Full Stack Developer** passionate about technology, software development and continuous learning.
 
-***Analysis and systems development*** - 01/2021 course paused 06/2025 – University UNINOVE ( undergraduate - studying ) 
+Currently studying **Bachelor's Degree in Artificial Intelligence (UNIVESP)** and previously completed four semesters of **Systems Analysis and Development**, together with an **MBA in Big Data & Competitive Intelligence** and a **Bachelor's Degree in Business Administration**.
 
-***Management – Bachelor*** – 12/2001 – University FIPEP ( Finished )
+I have solid experience in the administrative area within the Government of São Paulo and have dedicated the last few years to intensive technical training through Bootcamps, certifications and personal projects.
 
-***
-<br/>
+I enjoy creating modern, scalable applications and constantly improving my skills using the latest technologies and Artificial Intelligence.
 
-## ***Postgraduate:***
+I believe AI is one of the greatest productivity tools available today, and I integrate it into my daily software development workflow.
 
-**MBA - Big Data - Competitive intelligence** – 06/2021 até 12/2021 – University Descomplica ( graduate student )
+---
 
-<br/>
+#  Currently
 
-## **English**
-English – Basic level A2 – Studying EF English Live
+- 🌱 Learning **English (A2)** every day
+- 🤖 Improving my Artificial Intelligence skills
+- 💻 Building Full Stack applications
+- ⚛️ Deepening React ecosystem
+- 🅰️ Improving Angular development
+- ☕ Studying Java ecosystem
+- 🐳 Learning more about Docker, DevOps and Cloud
 
-<br/>
+---
 
-## ***Professional experience***
+#  Career Objective
 
-2012 – 2023 (Current)
+I am looking for opportunities as:
 
-* Prefecture of SP ( SMIT – Innovation and Technology Department - current) - works in the administrative area - government official
+- Full Stack Developer
+- Front-End Developer
+- Back-End Developer
+- Java Developer
+- React Developer
+- Angular Developer
+- Software Engineer
+- Junior/Mid-level Developer
 
-* Previous years:
-Sptrans (São Paulo Prefecture) and CDP Guarulhos II (São Paulo State) - works in the administrative area - government official
+I am open to remote, hybrid and on-site opportunities.
 
-* 1999 – 2011
-Telemarketing (SAC, Technical Support, Monitoring)
-Companies: Mondial Assistance (24h Assistance), Gol Linhas Aéreas, Vivo (Telesp Celular / Telefônica)
+---
 
-<br/>
+#  Tech Stack
 
+## Front-end
 
-## **Other knowledge (Certificates):**
+<p>
 
-***
-***
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,electron" />
 
-**Bootcamp { Parças} 05/2021 – 08/2021** 
+</p>
 
-Formation: **QA Unicorn** | A myth in the programming world
+---
 
-**Contents:**
+## Back-end
 
-HTML e CSS - 9 hours
+<p>
 
-HTML5 e CSS 3 - 14 hours
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,php,python,ruby" />
 
-Git Workflow - 4 hours
+</p>
 
-Full JavaScript ES6 - 37 hours
+---
 
-JavaScript and JQuery - 9 hours
+## Databases
 
-Front End Automation with NPM - 4 hours
+<p>
 
-Bootstrap Builder - 7:15 hours
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql" />
 
-Node JS - 15 hours
+</p>
 
+---
 
+## DevOps & Tools
 
+<p>
 
-***
-***
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,npm,vscode,idea" />
 
-**Santander Bootcamp | Mobile Developer – 06/2021 – 09/2021**
+</p>
 
-Total 200 horas
-Theme: Mobile Development with Kotlin
+---
 
+## Other Technologies
 
-**Contents:**
+- REST API
+- GraphQL (Apollo)
+- JWT Authentication
+- OAuth
+- Token Authentication
+- Basic Authentication
+- CI/CD
+- Elasticsearch
+- Module Bundlers
+- Responsive Design
+- Server Side Rendering
+- MVC
+- MVVM
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Git Flow
 
-Programming logic - 4 hours
+---
 
-Introduction to Git / GitHub - 5 hours
+# 💼 Professional Experience
 
-Introduction to Kotlin - 6 hours
+## Government of São Paulo
 
-Object Orientation Fundamentals with Kotlin - 6 hours
+### São Paulo City Hall (SMIT / Finance Department)
 
-First steps in Kotlin - 40 hours
+**Administrative Management Assistant**
 
-Introduction to Android Platform Architecture with Kotlin - 3 hours
+2019 — 2023
 
-Working with Android Studio and Key Tools - 3 hours
+- Administrative management
+- Team support
+- Public service
+- Process management
+- Software improvement suggestions
+- Worked alongside PRODAM on improvements to the SOF financial system
 
-Applying Concepts to Collections, Arrays, and Lists - 5 hours
+---
 
-Best Practices for Debugging, Error Handling and Exceptions - 4 hours
+### SPTrans
 
-Designing the First Android Application Using Kotlin - 6 hours
+Transport Analyst
 
-SQLite Integrated Data Development on Android - 7 hours
+2012 — 2015
 
-Applying TDD and Testing Patterns to Android Application Development - 1 hours
+- Monitoring transportation routes
+- Operational support
+- Radio communication
 
-Android Apps Navigation Concepts, Appearance and Style - 4 hours
+---
 
-ViewModel and Lifecycle for Better Android App Experience - 1 hours
+### Government of São Paulo
 
-Integrated Android Application Development - 6 hours
+Administrative Officer
 
-Using Android's Native Features - 10 hours
+2008 — 2012
 
-Solving Challenges in Kotlin - 40 hours
+Administrative and legal department.
 
-Kotlin Development Principles with Clean Architecture and MVVM - 2 hours
+---
 
-Working with Android Asynchronous Processing - 2 hours
+### Customer Support / Technical Support
 
-Professional Coding Standards and Conventions with Kotlin - 2 hours
+1999 — 2011
 
-Practicing programming with Kotlin - 40 hours
+Worked for companies including:
 
-Creating a Reminders and Tasks App with Kotlin - 3 hours
+- Vivo
+- Gol Airlines
+- Mondial Assistance
+- TSA
+- Mobitel
 
-***
-***
-**BootCamp - Dio - Inter Android Developer**
-Início 20/08/2021 - Término  15/10/2021
-Total 98 horas
+Experience in:
 
-**Contents:**
+- Customer Service
+- Technical Support
+- Quality Assurance
+- Monitoring
+- Relationship Department
 
-Introdução a linguagem Kotlin
+---
 
-Kotlin Orientada a Objetos
+# 🎓 Education
 
-Desafios Matemáticos em Kotlin
+### 🎓 Bachelor in Artificial Intelligence
 
-Arquitetura da Plataforma Android com Kotlin
+**UNIVESP**
 
-Trabalhando com Android Studio e principais Ferramentas
+2026 - Present
 
-Coleções, Arrays e Listas
+---
 
-Integrando Dados com SQLite no Android
+### 🎓 Systems Analysis and Development
 
-Aplicando TDD e Padrões de Testes no Desenvolvimento de Aplicativos Android
+UNINOVE
 
-Conceitos de Navegação, Aparência e Estilo de Aplicativos Android
+2021 - 2025 (Paused)
 
-ViewModel e Lifecycle para melhorar Experiência em Aplicativos Android
+---
 
-Desenvolvimento Integrado de Aplicações Android
+### 🎓 MBA
 
-Utilizando Recursos Nativos do Android
+Big Data & Competitive Intelligence
 
-Praticando Aritimética em Kotlin
+Completed
 
-Principios de Desenvolvimento Kotlin com Clean Architecture e MVVM
+---
 
-Trabalhando com Processamento Assíncrono no Android
+###  Bachelor in Business Administration
 
-Padrões e Convensões Profissionais de Codificação com Kotlin
+Completed
 
-Solucionando Desafios em Kotlin
+---
 
+# 📚 Main Bootcamps & Certifications
 
-***
-***
+✔ Santander Mobile Developer
 
-**Curso Oratória Conquer**
-Certificado Disponível
+✔ Capgemini Full Stack Java + Angular
 
-**Contents:**
+✔ Cognizant Cloud Data Engineer
 
-Oratória e Você
-Consciência Corportal e Autopercepção
+✔ Avanade .NET
 
-Conhecendo Sua Voz
+✔ Everis QA Beginner
 
-Como ter Conversas Difíceis
+✔ Inter Android Developer
 
-Falas que Engajam
+✔ QA Unicorn
 
-Tacada de Mestre
+✔ HTML & CSS
 
-Hacks de Voz para Oratória
+✔ JavaScript ES6
 
-Oratória Além das Câmeras
+✔ NodeJS
 
-Usando o Corpo ao seu Favor
+✔ Java
 
-A Oratória no dia-a-dia
+✔ Spring Boot
 
+✔ Angular
 
-***
-***
+✔ React
 
-**BootCamp - Dio - everis Quality Assurance Beginner #2**
-Início 18/07/2021 - Término  18/08/2021
+✔ Kotlin
 
-Total 38 horas - Certificado disponível
+✔ Docker
 
-**Contents:**
+✔ Python
 
-Fundamentos de Arquitetura de Sistemas
+✔ MongoDB
 
-Desenvolvimento Básico em Java
+✔ PostgreSQL
 
-Programação em Java
+✔ Git & GitHub
 
-Qualidade de Software
+✔ Selenium
 
-Junit 5
+✔ JUnit
 
-Automação web com Selenium e Java
+✔ Clean Architecture
 
-Introdução do Driven Development (BDD) com Java
+✔ MVVM
 
-API Rest de consulta de cidades do Brasil do Zero até a produção
+✔ Microservices
 
+✔ Azure
 
-***
-***
+✔ AWS
 
-**BootCamp - Dio - Avanade CodeAnywhere .NET**
-Início 10/08/2021 - Término  15/10/2021
-Total 76 horas
+✔ Big Data
 
-**Contents:**
+✔ Spark
 
-SQL SERVER - Criando suas primeiras consultas
+✔ Hadoop
 
-Primeiros passos com .NET + C#
+✔ Kafka
 
-Orientação a Objetos em .NET
+✔ Google Cloud
 
-Introdução a microsserviços com .NET
+✔ Linux
 
-Desenvolvimento de aplicações com .NET
+✔ Shell Script
 
-Criando um APP simples de cadastro de sérias em .NET
+✔ Data Engineering
 
-Iniciando aritméticas em C#
+✔ ETL
 
-Fundamentos de Arquitetura de Sistemas
+✔ Pandas
 
-Arquitetura de Sistemas Avançado
+✔ REST APIs
 
-Configuração da arquitetura back-end com .NET Core
+✔ Software Testing
 
-Criando um catálogo de jogos usando boas práticas de arquitetura com .NET
+✔ Selenium Automation
 
-Desafios matemáticos em C#
+✔ TDD
 
-Desenvolvendo sua aplicação com C# usando DDD
+✔ BDD
 
-Introdução a design patternas com .NET
+✔ Public Speaking (Conquer)
 
-Configuração da Suíte de testes e Aplicando testes integrados em .NET Core
+...and many more.
 
-Configuração e Deploy na nuvem Microsoft Azure Cloud
+---
 
-Introdução a aplicações serverless na Azure com .NET
+#  Highlights
 
-Introdução a mensageria na Azure
+✅ Hundreds of hours of Bootcamps
 
-Desafios avançados em C#
+✅ Many LinkedIn Skill Endorsements
 
-***
-***
+✅ Several Professional Certificates
 
-**BootCamp - Dio - Cognizant Cloud Data Engineer**
-Início 10/08/2021 - Término  24/10/2021
-Total 100 horas
+✅ Government Experience
 
-**Contents:**
+✅ Business Administration Background
 
-Linux: Introdução ao sistema operacional
+✅ Artificial Intelligence Student
 
-Shell Script - Manipulando Arquivos
+✅ Passionate about Technology
 
-Fundamentos de Arquitetura de Sistemas
+✅ Fast Learner
 
-Arquitetura de Sistemas Avançado
+✅ Team Player
 
-Introdução a Orquestração de Contêineres com Docker
+✅ Continuous Improvement Mindset
 
-Conceitos e Melhores práticas com banco de dados PostGreSQL
+---
 
-Introdução ao MongoDB e Banco de Dados NoSQL
+# 🌎 Languages
 
-Explorando o poder do NoSQL com Cassandra e HBase
+🇧🇷 Portuguese
 
-Introdução do Python
+Native
 
-Fundamentos de ETL com Python
+🇺🇸 English
 
-Análise de dados com Python e Pandas
+Basic (A2)
 
-Resolvendo algoritmos com Python
+- Reading ✔️
+- Writing ✔️
+- Technical Documentation ✔️
+- Improving every day
 
-Monitoramento de Clusters Hadoop de alto nível com HDFS e Yarn
+I use AI-powered tools to increase productivity and communication while continuously improving my English skills.
 
-Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop
+---
 
-Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala
+#  Portfolio
 
-Processando grandes conjuntos de dados de forma paralela e distribuída com Spark
+🚧 Under Construction
 
-Criando pipelines de dados eficientes com Spark e Python
+### Portfolio 1
 
-Introdução a Engenharia de Dados da AWS
+https://portifolio-rodrigoname.vercel.app/
 
-Introdução a Engenharia de Dados na Azure
+### Portfolio 2
 
-Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc
+http://rodrigoname.github.io/
 
-Introdução a Mensageria na Nuvem com Kafka e Python
+### Portfolio 3
 
-Criando seu Ecossistema de Big Data na Nuvem
+https://rodrigo-git-main-rodrigoname.vercel.app/
 
-Desafios matemáticos em Python
+---
 
+# GitHub Stats
 
+<div align="center">
 
-***
-***
+![Rodrigo GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoName&show_icons=true&theme=tokyonight)
 
-**BootCamp - Dio - Capgemini Fullstack Java and Angular**
-Início 12/08/2021 - Término  22/10/2021
-Total 117 horas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoName&layout=compact&theme=tokyonight)
 
-**Contents:**
-Dominando IDEs Java
+![GitHub Streak](https://streak-stats.demolab.com?user=RodrigoName&theme=tokyonight)
 
-Desenvolvimento Avançado Java
+</div>
 
-Introdução a orientação a objetos com Java
+---
 
-Java - Trabalhando com Collections
+#  Contact
 
-Estrutura de Dados em Java
+📧 Email
 
-Resolvendo Desafios de Código em Java
+**rlsnetvendas@gmail.com**
 
-Introdução a Programação com Java
+📱 WhatsApp
 
-Introdução ao framework Spring Boot
+**+55 13 99104-8818**
 
-Trabalhando com Banco de Dados utilizando JDBC e JPA
+ Location
 
-Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+Itanhaém - São Paulo - Brazil
 
-Introdução aos Conceitos de API e Clean Archiutecture
+ LinkedIn
 
-Microsserviços em Spring Cloud com Java
+https://www.linkedin.com/in/rodrigo-analistaedesenvolvedordesistemas/
 
-Desafios numércos em Java
+GitHub
 
-Criando uma solução de e-commerce com microsserviços em Java
+https://github.com/RodrigoName
 
-IDE Instalação e Configuração (VSCode)
+---
 
-Introdução a criação de websites com HTML5 e CSS3
+#  Personal Philosophy
 
-Construindo páginas para internet com Bootstrap
+> "Technology changes lives, continuous learning transforms careers, and persistence makes impossible goals achievable."
 
-Programação para internet com JavaScript
+---
 
-JavaScript ES6 essecial
+<div align="center">
 
-Manipulando a D.O.M.
+##  Thank you for visiting my profile!
 
-Recriando a Interface do NetFlix
+### Feel free to connect with me!
 
-Desafio Aritimético em JavaScript
+If you like my projects, don't forget to  my repositories.
 
-Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
-
-Introdução ao Angular 8
-
-Técnicas Avançadas em Angular 8
-
-Aplicações Avançadas com Angular
-
-Criando Projeto para consultar a previsão do tempo via API
-
-Conceitos avançados de performance e otimizaçaõ usando Angular
-
-Arquitetura de componentes e a gestão da complexidade no front-end
-
-Desafios avançados de código em Javascript
-
-Desenvolvendo seu blog com tecnologias de Java e Angular
-
-
-***
-***
-
-**Video course (Teacher Gustavo Guanabara):**
-
-_Git / GitHub (20 horas) 
-
-_Java Script (40 horas) 
-
-_ Algoritmo (40 horas)
-
-***
-***
-**Participação de plataforma de desafios lógicos de programação: URI**
+</div>
