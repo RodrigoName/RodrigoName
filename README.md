@@ -372,13 +372,11 @@ https://rodrigo-git-main-rodrigoname.vercel.app/
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=RodrigoName&color=blue)
 
-<img src="https://github-readme-stats.vercel.app/api?username=RodrigoName&show_icons=true&theme=github_dark&cache_seconds=1800" height="170"/>
+![Followers](https://img.shields.io/github/followers/RodrigoName?style=social)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoName&layout=compact&theme=github_dark&cache_seconds=1800" height="170"/>
-
-</div>
+![Stars](https://img.shields.io/github/stars/RodrigoName?affiliations=OWNER&style=social)
 
 ## 🔥 GitHub Streak
 
